@@ -4,6 +4,7 @@ import Button from './components/Button';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Benefits from './components/Benefits';
+import Colleboration from './components/Colleboration';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Header/>
       <Hero/>
       <Benefits/>
+      <Colleboration/>
       </div>
       <ButtonGradient />
     </>
